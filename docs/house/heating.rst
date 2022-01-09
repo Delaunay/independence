@@ -1,0 +1,6 @@
+Heating
+=======
+
+* Electricity
+* Gas
+* Wood
