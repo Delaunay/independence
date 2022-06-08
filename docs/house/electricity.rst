@@ -39,7 +39,7 @@ in batteries for later usage.
 * `DC-AC inverter 
 * Gas Generator for backup/emergency
 
-`DC AC Inverters<https://canada.newark.com/c/power-line-protection/dc-ac-inverters>`_
+`DC AC Inverters <https://canada.newark.com/c/power-line-protection/dc-ac-inverters>`_
 
 `Controller <https://www.amazon.com/EPEVER-Controller-Regulator-Temperature-Monitoring/dp/B08CN1QZXF/ref=sr_1_7?tag=offgridpermac-20&th=1>`_
 
