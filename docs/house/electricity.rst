@@ -53,6 +53,8 @@ Solar Panels
 * inverter
 * batteries
 
+* Put on the south side of your house
+
 Hydro Electricity
 -----------------
 
