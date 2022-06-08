@@ -39,9 +39,11 @@ in batteries for later usage.
 * `DC-AC inverter 
 * Gas Generator for backup/emergency
 
-<https://canada.newark.com/c/power-line-protection/dc-ac-inverters>`_
-https://www.amazon.com/EPEVER-Controller-Regulator-Temperature-Monitoring/dp/B08CN1QZXF/ref=sr_1_7?tag=offgridpermac-20&th=1
-https://www.amazon.ca/-/fr/Batterie-lithium-int%C3%A9gr%C3%A9e-cycles-charge/dp/B09BVNLRZK/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5SQCQWCN7D0D&keywords=Wind%2Bsolar%2Bbatteries&qid=1641754690&s=lawn-garden&sprefix=wind%2Bsolar%2Bbatteries%2Clawngarden%2C70&sr=1-3&th=1
+`DC AC Inverters<https://canada.newark.com/c/power-line-protection/dc-ac-inverters>`_
+
+`Controller <https://www.amazon.com/EPEVER-Controller-Regulator-Temperature-Monitoring/dp/B08CN1QZXF/ref=sr_1_7?tag=offgridpermac-20&th=1>`_
+
+`Battery <https://www.amazon.ca/-/fr/Batterie-lithium-int%C3%A9gr%C3%A9e-cycles-charge/dp/B09BVNLRZK/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5SQCQWCN7D0D&keywords=Wind%2Bsolar%2Bbatteries&qid=1641754690&s=lawn-garden&sprefix=wind%2Bsolar%2Bbatteries%2Clawngarden%2C70&sr=1-3&th=1>`_
 
 
 Energy Sources
